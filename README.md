@@ -128,11 +128,3 @@ Use this as the evolution path for your next versions:
 6. Containerize with Docker and deploy
 7. Add tests and CI pipeline
 
-## Suggested next commits
-
-- `chore: add gitignore env example and dependency manifest`
-- `docs: add detailed project setup and scaling roadmap`
-
-## LinkedIn project description (copy/edit)
-
-Built an AI Chat backend using FastAPI and OpenAI APIs with secure environment management, CORS-enabled frontend integration, and a scalable architecture roadmap. This project demonstrates practical LLM integration, API design, and production-minded engineering foundations.
